@@ -22,7 +22,8 @@ Retrieval-augmented question answering for network and security engineering.
 | Deployment | Multi-node, self-hosted |
 | Tooling | Model Context Protocol |
 | Models | Claude Mythos and others |
-| Status | Unreleased |
+| Status | Pre-release. Design notes first, code to follow. |
+| Repository | [hellobpdu/deep32](https://github.com/hellobpdu/deep32) |
 
 ## Test coverage
 
@@ -35,7 +36,7 @@ Retrieval-augmented question answering for network and security engineering.
 
 ## Research access
 
-Anthropic Cyber Verification Program, Defense Access, 2026. Defensive use.
+Anthropic Cyber Verification Program, 2026. Defensive research on my own lab systems.
 
 ## Certifications
 
